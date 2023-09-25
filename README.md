@@ -1,8 +1,9 @@
-## Day 99 Course Assignment: Analyse Deaths involving Police in the United States
+##  Analyse Deaths involving Police in the United States
+
 
 _Extract insights from combining US census data and the Washington Post's database on deaths by police in the United States_
 
-# Day 99 - Analyzing Deaths Involving Police in the United States
+# As part of my Course in udemy to 
 
 ## Concepts Practised
 - Removing NaN Values and Duplicates
